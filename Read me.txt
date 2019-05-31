@@ -1,0 +1,4 @@
+1. The data files are csv FAA1 and FAA2
+2. The raw code is stored in files prj_prt_*
+3. The sequence to view this project is Part 1, followed by Part 2 and Part 3
+4. The Project reports also have codes used in each step
